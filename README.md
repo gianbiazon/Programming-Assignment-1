@@ -10,6 +10,10 @@ Example output :     alphabet_soup("hello") = ehllo
                      alphabet_soup("hacker") = acehkr
 
                      
+                    ![image](https://github.com/user-attachments/assets/f3bfb34f-ffe7-4a68-bc6e-726544efcdd5)
+
+
+                     
 Problem #2 - EMOTICON PROBLEM
                 - to create a function that changes specific words into emoticons. Given a sentence as a string, replace the words smile, grin,                    sad, and mad with their corresponding emoticon.
 
