@@ -6,7 +6,9 @@ The repository contains solutions to identify the basic codes and functions in P
 Problem #1 - ALPHABET SOUP PROBLEM 
                 - to create a function that takes a string and returns a string with its letters in alphabetical order.
 
-Code:                     
+Code:          
+
+
                      alphabet = input("Enter a word: ") #user input a variable
                      
                      string = sorted(alphabet) #makes the string in alphabetical order
